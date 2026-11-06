@@ -1,0 +1,8 @@
+# Game files: never touch line endings (core.autocrlf is on)
+*.4ds binary
+*.4DS binary
+*.5ds binary
+*.5DS binary
+*.sav binary
+*.bin binary
+*.png binary
